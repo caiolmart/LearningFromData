@@ -1,0 +1,1 @@
+Programming exercises on the book Learning From Data (2012) by Yaser S. Abu-Mostafa, Malik Magdon-Ismail and Hsuan-Tien Lin
